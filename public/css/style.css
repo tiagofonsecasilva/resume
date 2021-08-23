@@ -1,0 +1,37 @@
+svg.svg-inline--fa.fa-cloudflare.fa-w-20.me-2 {
+    color: orange;
+}
+
+svg.svg-inline--fa.fa-aws.fa-w-20 {
+    color: black;
+}
+
+svg.svg-inline--fa.fa-wordpress.fa-w-16 {
+    color: #21759b;
+}
+
+.item-icon {
+    text-align: center;
+}
+
+.item-title {
+    text-align: center;
+}
+
+button.btn.btn-primary {
+    margin: 2px;
+    height: 2.1rem!important;
+    font-size: 0.7rem!important;
+}
+
+.resume-main .item-title {
+    text-align: left!important;
+}
+
+button.btn-primary {
+    font-size: 0.7rem!important;
+}
+
+button.btn.btn-primary {
+    font-size: 0.7rem!important;
+}
